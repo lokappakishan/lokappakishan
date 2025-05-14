@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Kishan Lokappa
 - 👀 I’m interested in Web development
-- 🌱 I have more than 3 years of experience as a web developer, I have hands on experience working on HTML, CSS, Javascript, React and Java.
+- 🌱 I have more than 3 years of experience as a web developer, I have hands on experience working on HTML, CSS, Javascript, Typescript, React and Java.
